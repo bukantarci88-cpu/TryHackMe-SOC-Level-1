@@ -1,1 +1,0 @@
-Effective incident handling combines alert triage, log analysis, threat intelligence, network investigation, malware analysis, evidence correlation, timeline creation, and structured incident response.
